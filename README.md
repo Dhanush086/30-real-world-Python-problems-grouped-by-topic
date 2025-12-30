@@ -15,7 +15,6 @@ This repository contains 30 real-world Python coding challenges grouped by topic
 - ✅ Advanced Looping Concepts
 - ✅ Object-Oriented Programming
 - ⏳ Exception Handling
-- ⏳ Algorithmic Thinking
 
 ---
 
