@@ -6,15 +6,15 @@ This repository contains 30 real-world Python coding challenges grouped by topic
 
 ## ✅ Topics Covered
 
-- ✅ Data Types & Variables
-- ✅ Indexing and Slicing
-- ✅ Operators & Built-in Functions
-- ✅ Conditional Statements
-- ✅ Loops (for, while, nested, etc.)
-- ✅ Custom Functions in Python
-- ✅ Advanced Looping Concepts
-- ✅ Object-Oriented Programming
-- ✅ Exception Handling
+1. Data Types & Variables  
+2. Indexing and Slicing  
+3. Operators & Built-in Functions  
+4. Conditional Statements  
+5. Loops (for, while, nested, etc.)  
+6. Custom Functions  
+7. Advanced Looping Concepts  
+8. Object-Oriented Programming (OOP)  
+9. Exception Handling  
 
 ---
 
