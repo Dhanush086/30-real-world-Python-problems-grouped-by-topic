@@ -1,6 +1,6 @@
 # 🚀 30 Real-World Python Problems – Topic Wise Practice
 
-This repository contains 30 real-world Python coding challenges grouped by topic. Each notebook solves 2 or 3 problems using Python and explains concepts with examples and visuals.
+This repository contains 30 real-world Python coding challenges grouped by topic. Each notebook solves 2 or 3 problems using Python and explains concepts with examples and visuals outputs where necessary.
 
 ---
 
